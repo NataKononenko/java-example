@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.yandex.qatools.allure:allure-model:1.4.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.allure/allure-model/1.4.11/2c4cb56671eb9b093a74ff0bdcb9502dfbcdd6d4/allure-model-1.4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.allure/allure-model/1.4.11/828278871e4fe370e80e9563d081d15990fa78aa/allure-model-1.4.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

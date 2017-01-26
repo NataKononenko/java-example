@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485458816890" stop="1485458832900" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>ru.stqa.training.selenium.avat</name>
+    <test-cases>
+        <test-case start="1485458816903" stop="1485458832791" status="passed">
+            <name>FirstAvat</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-Natalia.local"/>
+                <label name="thread" value="7978@MacBook-Pro-Natalia.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
